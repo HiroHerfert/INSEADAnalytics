@@ -1,0 +1,1 @@
+Print("Hello INSEAD Party people")
